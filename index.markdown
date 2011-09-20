@@ -5,7 +5,7 @@ title: Mitsutoshi Aoe
 Mitsutoshi Aoe (maoe)
 ======================
 
-Open source projects
+Projects
 ----------------------
 - [TKYProf](https://github.com/maoe/tkyprof) - A web-baed interactive visualizer for GHC profiling
 
