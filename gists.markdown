@@ -13,10 +13,10 @@ Sexy types
 - [Encoding type classes into records](https://gist.github.com/1170450)
 - [GADTs + `QuickCheck`](https://gist.github.com/953891)
 - [An church-encoding of lists and tuples](https://gist.github.com/901995)
-- [MTPCs + fundeps and type families are type functions](Multi-parameter type classes and functional)
+- [MTPCs + fundeps and type families are type functions](https://gist.github.com/858876)
 - [Existentials in UHC docs](https://gist.github.com/807969)
 
-Monads/Comonads
+Monads and comonads
 ---------------------
 - ["A Neighborhood of Infinity: The Mother of all monads"](https://gist.github.com/949795)
 - [Examples of Comonads](https://gist.github.com/901934)
