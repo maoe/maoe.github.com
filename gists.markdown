@@ -21,7 +21,7 @@ Monads and comonads
 - ["A Neighborhood of Infinity: The Mother of all monads"](https://gist.github.com/949795)
 - [Examples of Comonads](https://gist.github.com/901934)
 
-Performance & optimizations
+Performance and optimizations
 ---------------------
 - [An efficient `chop`](https://gist.github.com/1215660)
 - [A worker/wrapper transformations](https://gist.github.com/1199798)
@@ -59,4 +59,3 @@ Other languages
 - [A proof of (∃x.P(x)) → Q ⇔ ∀x.(P(x) → Q)](https://gist.github.com/997989)
 - [How to use `sys/resource.h`](https://gist.github.com/475235)
 - [Asynchronous DNS resolver in Scala](https://gist.github.com/473497)
-
